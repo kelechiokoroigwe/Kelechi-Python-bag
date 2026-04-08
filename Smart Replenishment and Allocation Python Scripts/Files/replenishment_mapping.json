@@ -1,0 +1,10 @@
+{
+"email_recipient": "kelechiokoroigwe@gmail.com",
+"datasets": [
+{
+"dataset_name": "Sample Inventory Data",
+"inventory_file_location": "abfss://raw@datalakedev.dfs.core.windows.net/raw/mnt/raw/Replenishment/stock_data.csv",
+"alert_email": "kelechiokoroigwe@gmail.com"
+}
+]
+}
