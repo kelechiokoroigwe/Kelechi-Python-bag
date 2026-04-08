@@ -1,0 +1,21 @@
+product_id,product_name,store_id,current_stock,reorder_point
+SKU_W_101,Women's Summer Dress,Store_A,15,20
+SKU_M_201,Men's Slim Fit Jeans,Store_B,10,15
+SKU_K_301,Kids' Graphic Tee,Store_C,50,45
+SKU_W_102,Women's Ankle Boots,Store_A,8,12
+SKU_M_202,Men's Casual Polo,Store_C,25,30
+SKU_K_302,Kids' Sport Sneakers,Store_B,18,20
+SKU_W_103,Women's Wool Coat,Store_C,3,5
+SKU_M_203,Men's Dress Shirt,Store_A,12,10
+SKU_K_303,Kids' Puffer Jacket,Store_A,7,10
+SKU_W_104,Women's Running Shoes,Store_B,35,30
+SKU_M_204,Men's Sweatpants,Store_A,10,15
+SKU_K_304,Kids' Rain Boots,Store_C,22,25
+SKU_W_105,Women's High Heels,Store_C,4,8
+SKU_M_205,Men's Formal Trousers,Store_B,10,10
+SKU_K_305,Kids' Jeans,Store_A,15,18
+SKU_W_106,Women's Skirt,Store_B,20,25
+SKU_M_206,Men's Hoodie,Store_C,8,12
+SKU_K_306,Kids' Sandals,Store_B,5,5
+SKU_W_107,Women's Blazer,Store_A,9,10
+SKU_M_207,Men's Tracksuit,Store_B,14,15
